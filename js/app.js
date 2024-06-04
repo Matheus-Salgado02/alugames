@@ -62,4 +62,4 @@ function Ordenar(x,y,z)
 
 }
 
-Ordenar(15,7,2);
+Ordenar(12,7,2);
